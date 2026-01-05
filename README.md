@@ -1,6 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Julian
 ===============================================================================================================================
-Hope to work with you soon!
+I am an aspiring Front-End Developer always trying to grow my knowlege in coding. Hope to work with you soon!
 
 Software Engineer
 -----------------
