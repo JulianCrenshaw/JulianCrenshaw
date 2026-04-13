@@ -5,7 +5,7 @@ I am an aspiring Front-End Developer always trying to grow my knowlege in coding
 Software Engineer
 -----------------
 
-* 🌍  I'm based in Oklahoma
+* 🌍  I'm based in Tulsa, Oklahoma
 * ✉️  You can contact me at [julian.gold.crenshaw@gmail.com](mailto:julian.gold.crenshaw@gmail.com)
 * 🧠  I'm currently learning TypeScript
 
